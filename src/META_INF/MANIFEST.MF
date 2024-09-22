@@ -1,2 +1,4 @@
 Manifest-Version: 1.0
 Main-Class: src/main/java/com/javarush/cryptoanalyser/Main.java
+Manifest-Version: 1.0
+Main-Class: src/main/java/com/javarush/cryptoanalyser/Main.java
